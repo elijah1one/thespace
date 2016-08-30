@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## Giant Stone Balls in Costa Rica
-
 People have been bewildered for many years when it comes to the large, pefectly round stone balls in CR. They range in size from tennis ball size to large enough  (almost 8 feet in diamter) not to be able to pick up. No one really knows how the balls came to be. Some think an alient race created them. Others think they have some sort of mystical origin. Scientists have still not been able to determine their origin. 
 
 ![giantballs.jpg]({{site.baseurl}}/_posts/giantballs.jpg)
