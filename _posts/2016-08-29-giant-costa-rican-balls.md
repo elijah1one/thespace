@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Giant Stone Balls in Costa Rica
 
