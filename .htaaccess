@@ -18,9 +18,9 @@ ExpiresByType text/x-javascript "access 1 month"
 ExpiresByType application/x-shockwave-flash "access 1 month"
 ExpiresByType image/x-icon "access 1 year"
 ExpiresDefault "access 1 month"
-ExpiresDefault font-awesome.min.css "access 1 month"
-ExpiresDefault main.css "access 1 month"  
-ExpiresDefault google-analytics.com/ga.js "access 1 month" 
+ExpiresDefault assets/css/font-awesome.min.css "access 1 month"
+ExpiresDefault assets/css/main.css "access 1 month"  
+ExpiresDefault www.google-analytics.com/ga.js "access 1 month" 
 
 </IfModule>
 ## EXPIRES CACHING #
